@@ -1,0 +1,24 @@
+git clone ssh://56d9ecc60c1e66bf2a000028@itats-deployeproject.rhcloud.com/~/git/itats.git/
+cd itats/
+
+MySQL 5.5 database added.  Please make note of these credentials:
+
+       Root User: adminXmHCWE3
+   Root Password: pnkicwJ-QHGr
+   Database Name: itats
+
+Connection URL: mysql://$OPENSHIFT_MYSQL_DB_HOST:$OPENSHIFT_MYSQL_DB_PORT/
+
+You can manage your new MySQL database by also embedding phpmyadmin.
+The phpmyadmin username and password will be the same as the MySQL credentials above.
+
+
+Please make note of these MySQL credentials again:
+  Root User: adminXmHCWE3
+  Root Password: pnkicwJ-QHGr
+URL: https://itats-deployeproject.rhcloud.com/phpmyadmin/
+
+
+ssh://56d9ecc60c1e66bf2a000028@itats-deployeproject.rhcloud.com/~/git/itats.git/
+
+56d9ecc60c1e66bf2a000028@itats-deployeproject.rhcloud.com
